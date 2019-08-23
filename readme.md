@@ -1,2 +1,2 @@
-# Second Shift
+# Curriculum for Community Coding Events
 
