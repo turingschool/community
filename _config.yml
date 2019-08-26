@@ -1,6 +1,6 @@
 title: "Community Coding Curriculum - Turing School of Software and Design"
 description: "Open source curriculum for the Turing School of Software and Design's community coding events."
-url: "https://turingschool.github.io/community"
+url: "https://community.turing.io/"
 
 baseurl: ''
 permalink: /:title
